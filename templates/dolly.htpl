@@ -1,0 +1,10 @@
+<style type='text/css'>
+    #dolly {
+        float: <?php echo $x; ?>;
+        padding-<?php echo $x ?>: 15px;
+        padding-top: 5px;
+        margin: 0;
+        font-size: 11px;
+    }
+ </style>
+ <p id='dolly'><?php echo $line; ?></p>
